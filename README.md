@@ -7,3 +7,8 @@ Lastly, the size of the school was analyzed. Small (<1000 students) and medium (
 
 According to this data, the model for successful standardized test results was the following: a charter high school, lower funding per student, and small or medium sized school. Oppositely, the model for unsuccessful results was the following: a public district high school, higher funding per student, and a larger sized school. 
 The model of success (or otherwise) must be taken in context, however. Whether or not standardized test accurately discern student knowledge must be weighed separately.
+
+Sources for challenge:
+1) Stack Overflow
+2) Google
+3) Class lectures and activities
